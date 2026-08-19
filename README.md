@@ -1,9 +1,12 @@
 <h1 align="center">Hola, soy Iñigo 👋</h1>
 
 <p align="center">
-  💻 Cloud &amp; Automation · Ciberseguridad · Desarrollo de Software · DevOps<br>
-  🔐 Contenedores · Full Stack<br>
-  ⚙️ Creador de herramientas.
+  <strong>Técnico DevOps</strong> · Ciberseguridad · IA
+</p>
+
+<p align="center">
+  Automatizo lo que se hace a mano: infraestructura, despliegues<br>
+  y las herramientas que faltan.
 </p>
 
 <p align="center">
@@ -17,7 +20,7 @@
 ## 👨‍💻 Sobre mí
 
 - 🔭 Trabajo como **Técnico DevOps**: desarrollo de software, automatización de procesos, infraestructura como código (IaC) y arquitectura cloud.
-- 🤖 Integro **IA** en flujos de trabajo técnicos: agentes, automatizaciones y asistencia en análisis.
+- 🤖 Integro **IA** en flujos de trabajo técnicos: agentes, automatizaciones y desarrollo guiado por especificaciones (**SDD**).
 - 🧠 Amplio conocimiento en **IT, desarrollo y ciberseguridad** — de la infraestructura al código, y de la arquitectura a la defensa.
 - 👯 Busco **colaborar** en herramientas open source de seguridad defensiva y automatización de infraestructura.
 - 🌱 Estoy **profundizando** en arquitectura de plataformas y en seguridad aplicada al ciclo de despliegue.

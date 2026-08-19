@@ -90,9 +90,3 @@ PDF generados con LaTeX. Publicado bajo licencia MIT.
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=RtDevSec&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Lenguajes más usados">
-</p>

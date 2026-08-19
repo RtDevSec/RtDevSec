@@ -19,13 +19,11 @@
 
 ## 👨‍💻 Sobre mí
 
-- 🔭 Trabajo como **Técnico DevOps**: desarrollo de software, automatización de procesos, infraestructura como código (IaC) y arquitectura cloud.
+- 🔭 **Técnico DevOps**: desarrollo de software, automatización de procesos, infraestructura como código (IaC) y arquitectura cloud.
 - 🤖 Integro **IA** en flujos de trabajo técnicos: agentes, automatizaciones y desarrollo guiado por especificaciones (**SDD**).
 - 🧠 Amplio conocimiento en **IT, desarrollo y ciberseguridad** — de la infraestructura al código, y de la arquitectura a la defensa.
 - 👯 Busco **colaborar** en herramientas open source de seguridad defensiva y automatización de infraestructura.
-- 🌱 Estoy **profundizando** en arquitectura de plataformas y en seguridad aplicada al ciclo de despliegue.
-- 💬 **Pregúntame** sobre Terraform, Docker, CI/CD, integración de IA, Django, Vue o cómo automatizar algo que hoy haces a mano.
-- ⚡ **Dato curioso**: la mayoría de mis herramientas nacieron de una tarea manual que me negué a repetir una segunda vez.
+- 🌱 **Profundizando** en sistemas multiagente y en llevar la IA de asistente puntual a pieza fiable dentro de los procesos de desarrollo y operación.
 
 ---
 

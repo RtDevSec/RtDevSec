@@ -16,23 +16,24 @@
 
 ## 👨‍💻 Sobre mí
 
-- 🔭 Ahora mismo trabajo en **[OpenSVM](https://github.com/RtDevSec/OpenSVM)**, una plataforma de gestión de vulnerabilidades que inventaría el software instalado en Windows, macOS y Linux y lo correlaciona con la NVD del NIST.
+- 🔭 Trabajo como **Técnico DevOps**: desarrollo de software, automatización de procesos, infraestructura como código con Terraform y arquitectura cloud.
+- 🤖 Integro **IA** en flujos de trabajo técnicos: agentes, automatizaciones y asistencia en análisis.
+- 🧠 Amplio conocimiento en **IT, desarrollo y ciberseguridad** — de la infraestructura al código, y de la arquitectura a la defensa.
 - 👯 Busco **colaborar** en herramientas open source de seguridad defensiva y automatización de infraestructura.
-- 🤝 Busco **ayuda** para escalar el inventario por agentes de OpenSVM a parques grandes y ampliar la cobertura de detección de software.
-- 🌱 Estoy **aprendiendo** infraestructura como código con Terraform y despliegues cloud reproducibles.
-- 💬 **Pregúntame** sobre Django, Vue, Docker Compose, correlación de CVEs con la NVD, o cómo montar un inventario de software desde cero.
+- 🌱 Estoy **profundizando** en arquitectura de plataformas y en seguridad aplicada al ciclo de despliegue.
+- 💬 **Pregúntame** sobre Terraform, Docker, CI/CD, integración de IA, Django, Vue o cómo automatizar algo que hoy haces a mano.
 - ⚡ **Dato curioso**: la mayoría de mis herramientas nacieron de una tarea manual que me negué a repetir una segunda vez.
 
 ---
 
-## 🔦 Proyecto destacado
+## 🔦 Proyecto open source
 
 ### [OpenSVM](https://github.com/RtDevSec/OpenSVM) — Open System Vulnerability Management
 
 Plataforma web de gestión de vulnerabilidades para Windows, macOS y Linux. Sondas en Python
 inventarían el software instalado, se correlaciona contra la **NVD del NIST** para identificar
 CVEs, y se proponen mitigaciones estilo **Blue Team** asistidas por IA. Los informes salen en
-PDF generados con LaTeX.
+PDF generados con LaTeX. Publicado bajo licencia MIT.
 
 `Django` · `Vue.js` · `PostgreSQL` · `Docker Compose` · `LaTeX` · `Gemini`
 
@@ -67,11 +68,15 @@ PDF generados con LaTeX.
 **DevOps y Cloud**
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+**IA**
+
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google%20Gemini-886FBF?style=for-the-badge&logo=googlegemini&logoColor=white)
 
 **Herramientas**
 

@@ -22,7 +22,6 @@
 - 🔭 **Técnico DevOps**: desarrollo de software, automatización de procesos, infraestructura como código (IaC) y arquitectura cloud.
 - 🤖 Integro **IA** en flujos de trabajo técnicos: agentes, automatizaciones y desarrollo guiado por especificaciones (**SDD**).
 - 🧠 Amplio conocimiento en **IT, desarrollo y ciberseguridad** — de la infraestructura al código, y de la arquitectura a la defensa.
-- 👯 Busco **colaborar** en herramientas open source de seguridad defensiva, automatización de infraestructura y proyectos que apliquen **IA** a problemas técnicos reales.
 - 🌱 **Profundizando** en sistemas multiagente y en llevar la IA de asistente puntual a pieza fiable dentro de los procesos de desarrollo y operación.
 
 ---

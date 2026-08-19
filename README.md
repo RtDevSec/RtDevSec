@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  Automatizo lo que se hace a mano: infraestructura, despliegues<br>
-  y las herramientas que faltan.
+  Diseño infraestructura que se despliega sola, se repite igual<br>
+  y no depende de que alguien recuerde el paso siete.
 </p>
 
 <p align="center">

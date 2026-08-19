@@ -75,7 +75,11 @@ PDF generados con LaTeX. Publicado bajo licencia MIT.
 
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Google%20Gemini-886FBF?style=for-the-badge&logo=googlegemini&logoColor=white)
+
+**Automatización**
+
 ![n8n](https://img.shields.io/badge/n8n-%23EA4B71.svg?style=for-the-badge&logo=n8n&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power%20Automate-%230066FF.svg?style=for-the-badge&logo=powerautomate&logoColor=white)
 
 **Herramientas**
 

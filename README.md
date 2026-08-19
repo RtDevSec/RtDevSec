@@ -85,9 +85,8 @@ PDF generados con LaTeX. Publicado bajo licencia MIT.
 
 ---
 
-## 📊 Estadísticas
+## 📊 Lenguajes más usados
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=RtDevSec&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=RtDevSec&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Lenguajes más usados">
 </p>

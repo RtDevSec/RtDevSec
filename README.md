@@ -1,7 +1,7 @@
 <h1 align="center">Hola, soy Iñigo 👋</h1>
 
 <p align="center">
-  <strong>Técnico DevOps</strong> · Ciberseguridad · IA
+  <strong>Técnico DevSecOps</strong> · IA
 </p>
 
 <p align="center">

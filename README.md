@@ -22,7 +22,7 @@
 - 🔭 **Técnico DevOps**: desarrollo de software, automatización de procesos, infraestructura como código (IaC) y arquitectura cloud.
 - 🤖 Integro **IA** en flujos de trabajo técnicos: agentes, automatizaciones y desarrollo guiado por especificaciones (**SDD**).
 - 🧠 Amplio conocimiento en **IT, desarrollo y ciberseguridad** — de la infraestructura al código, y de la arquitectura a la defensa.
-- 👯 Busco **colaborar** en herramientas open source de seguridad defensiva y automatización de infraestructura.
+- 👯 Busco **colaborar** en herramientas open source de seguridad defensiva, automatización de infraestructura y proyectos que apliquen **IA** a problemas técnicos reales.
 - 🌱 **Profundizando** en sistemas multiagente y en llevar la IA de asistente puntual a pieza fiable dentro de los procesos de desarrollo y operación.
 
 ---
@@ -75,6 +75,7 @@ PDF generados con LaTeX. Publicado bajo licencia MIT.
 
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Google%20Gemini-886FBF?style=for-the-badge&logo=googlegemini&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-%23EA4B71.svg?style=for-the-badge&logo=n8n&logoColor=white)
 
 **Herramientas**
 

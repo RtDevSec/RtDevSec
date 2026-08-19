@@ -1,7 +1,7 @@
 <h1 align="center">Hola, soy Iñigo 👋</h1>
 
 <p align="center">
-  <strong>DevSecOps</strong> · IA
+  <strong>DevSecOps</strong> · AI Architect
 </p>
 
 <p align="center">
